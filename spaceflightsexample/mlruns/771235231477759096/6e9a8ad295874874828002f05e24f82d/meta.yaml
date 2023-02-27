@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admins/Desktop/Sharing%20Kedro%2BMlflow/spaceflightsexample/mlruns/771235231477759096/6e9a8ad295874874828002f05e24f82d/artifacts
+end_time: 1677487505348
+entry_point_name: ''
+experiment_id: '771235231477759096'
+lifecycle_stage: active
+run_id: 6e9a8ad295874874828002f05e24f82d
+run_name: spacelights
+run_uuid: 6e9a8ad295874874828002f05e24f82d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677487471341
+status: 3
+tags: []
+user_id: Admins
